@@ -1,6 +1,6 @@
 🚀 A webcam-based **Emotion Detector** using **OpenCV + TensorFlow (CNN)** is a great hands-on computer vision project.
 
-### * Set Up Your Environment**
+### Set Up Your Environment
 
 Create a virtual environment and install dependencies:
 
@@ -14,14 +14,14 @@ pip install tensorflow opencv-python keras numpy matplotlib
 
 ---
 
-### **Dataset**
+### Dataset
 
 Use **FER2013 dataset** (common for emotion recognition). Download from [Kaggle](https://www.kaggle.com/datasets/msambare/fer2013).
 Save dataset in `data/` folder.
 
 ---
 
-### * Code Structure**
+### Code Structure
 
 ```
 emotion-detector/
